@@ -1,0 +1,18 @@
+# Archivos de base de datos (¡NUNCA subir!)
+*.mdf
+*.ldf
+*.ndf
+*.bak
+
+# Archivos de Visual Studio / SSMS
+.vs/
+*.suo
+*.user
+bin/
+obj/
+
+# Logs y temporales
+*.log
+*.tmp
+*.cache
+
